@@ -1,0 +1,25 @@
+{
+  "name": "cosmic-hire-backend",
+  "version": "1.0.0",
+  "description": "A interplanetary job portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souravdey777/CosmicHire.git"
+  },
+  "keywords": [
+    "backend",
+    "node.js",
+    "express.js",
+    "job-portal"
+  ],
+  "author": "Sourav Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Souravdey777/CosmicHire/issues"
+  },
+  "homepage": "https://github.com/Souravdey777/CosmicHire#readme"
+}
